@@ -53,6 +53,36 @@ img:"https://hindware.com/_next/image?url=https%3A%2F%2Fhindwarestg.blob.core.wi
     price:"₹ 2199/-",
     img:"https://cms.polycab.com/media/upznfhhf/fexdove036p_img_01.png?format=webp"
 },
+{
+    name:"JULIO",
+    category:"RR Signature",
+    price:"1000",
+    img:"https://www.rrkabel.com/wp-content/uploads/2023/08/Jolio-Matt-Charcoal-Black.png"
+},
+{
+    name:"CALID",
+    category:"RR Signature",
+    price:"1000",
+    img:"https://www.rrkabel.com/wp-content/uploads/2023/08/Combain-2.pnghttps://www.rrkabel.com/wp-content/uploads/2023/08/Combain-2.png"
+},
+{
+    name:"FARRATA",
+    category:"RR Signature",
+    price:"1000",
+    img:"https://www.rrkabel.com/wp-content/uploads/2023/08/Farrata-Fan.png"
+},
+{
+    name:"THALASSA",
+    category:"RR Signature",
+    price:"1000",
+    img:"https://www.rrkabel.com/wp-content/uploads/2024/05/THALASSA.png"
+},
+{
+    name:"ULTRA SLIM RAIN-FS05014-ULTRA SLIM SHOWER SQUARE",
+    category:"Varmora",
+    price:"1000",
+    img:"https://varmora.com/wp-content/uploads/2024/06/FS05014.jpg"
+},
 ]
 const menuContainer = document.getElementById('menu'); 
 const categoryBtns = document.querySelectorAll('.category-btn'); 
